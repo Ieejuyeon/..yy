@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T16:21:09.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="IbBuFFLEsDepdXf3mEob" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T14:46:22.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36 Edg/100.0.1185.36" etag="n1HTUqEVg6aUu0QXweZY" version="17.4.2" type="github">
   <diagram id="xmWfOcNKEpTEuv6yot5l" name="Page-1">
-    <mxGraphModel dx="1507" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPMVrk3j7AMTrq8NdgiV-20" value="비밀번호" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vPMVrk3j7AMTrq8NdgiV-20" value="기술스택" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPMVrk3j7AMTrq8NdgiV-21" value="&lt;u&gt;회원ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -251,7 +251,7 @@
             <mxPoint x="1360" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPMVrk3j7AMTrq8NdgiV-83" value="평가항목" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vPMVrk3j7AMTrq8NdgiV-83" value="평점항목" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPMVrk3j7AMTrq8NdgiV-86" value="열정" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
